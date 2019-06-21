@@ -1,0 +1,5 @@
+fastai
+emoji
+gensim
+numpy
+pythainlp
